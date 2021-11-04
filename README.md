@@ -1,4 +1,4 @@
-# website-template-bootstrap
+# Bootstrap 4 - Website Template
 A simple website template using Bootstrap 4. 
 
 Includes: 
